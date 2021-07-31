@@ -1,0 +1,57 @@
+body {
+    background-color: #7aa9d6;
+    color: white;
+}
+
+#navbar-header {
+    background-color: #2f5492;
+}
+
+#navbar-header a {
+    color: white;
+}
+
+#collapsibleNavbar {
+    background-color: #4c6ca5;
+    margin: 0;
+    text-align: center;
+}
+
+#collapsibleNavbar a:hover {
+    background-color: #336ed3;
+}
+
+#collapsibleNavbar a:active{
+    background-color: #134bac;
+}
+
+#menu-title {
+    margin-top: 15px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    color: #033750;
+}
+
+.section-menu {
+    position: relative;
+    background-color: #26d1e7;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.section-title {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    text-align: center;
+    border-radius: 0px 10px 0px 10px;
+    background-color: #006697;
+    padding: 5px;
+}
+
+.content-menu {
+    padding: 50px 15px 15px 15px;
+    color: #033750;
+}
